@@ -26,4 +26,4 @@ You want to display `prop1,prop3` you'll then use the component this way
 <app-dynamic-table [properties]='["prop1","prop3"]'></app-dynamic-table>
 ```
 
-**Note that the argument is passed as a string array** Hopefully I'll find a better solution soon
+**Note that the argument "properties" is passed as a string array** Hopefully I'll find a better solution soon
