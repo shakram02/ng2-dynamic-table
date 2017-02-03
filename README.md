@@ -6,7 +6,7 @@ The special thing is that you use this table everywhere without needing to modif
 You just change the objects and properties you want to display in the component's attributes
 
 ### Example
-assume an array which has some similiar object 
+assume an array which has some similiar objects
 ```TypeScript
     things: any = [
     {
